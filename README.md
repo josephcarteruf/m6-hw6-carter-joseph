@@ -58,3 +58,5 @@ Please submit both a link to your repository and a link to the live site. Also p
 * [Basic Concepts of Flexbox on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 * [A Complete Guide to Flexbox on CSS-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [What the Flexbox? Video playlist by Wes Bos](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
+
+I think I put the background image in my style.css correctly but I could not figure out why it was not showing up on the webpage. I also could not figure out how to get my links to line up on the left side of the screen using flexbox
